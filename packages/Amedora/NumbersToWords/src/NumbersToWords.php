@@ -10,6 +10,8 @@ namespace Amedora\NumbersToWords;
 
 
 class NumbersToWords {
+    public function __construct(){
 
+    }
     
 } 
