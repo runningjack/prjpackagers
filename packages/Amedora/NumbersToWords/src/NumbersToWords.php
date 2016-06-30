@@ -10,13 +10,9 @@ namespace Amedora\NumbersToWords;
 
 
 class NumbersToWords {
+
     public function __construct(){
 
-<<<<<<< HEAD
-
-} 
-=======
     }
     
-} 
->>>>>>> 05fbd9269300ba7a5aa64d794301354f80c109b8
+}
