@@ -156,6 +156,8 @@ return [
         prjpackagers\Providers\EventServiceProvider::class,
         prjpackagers\Providers\RouteServiceProvider::class,
 
+        JeroenG\Packager\PackagerServiceProvider::class,
+
     ],
 
     /*
