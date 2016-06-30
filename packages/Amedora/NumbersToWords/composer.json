@@ -1,17 +1,17 @@
 {
     "name": "Amedora/NumbersToWords",
     "type": "library",
-    "description": ":package_description",
+    "description": "Converts numbers to words",
     "keywords": [
         "Amedora",
         "NumbersToWords"
     ],
-    "homepage": "https://github.com/Amedora/NumbersToWords",
+    "homepage": "https://github.com/prjpackagers/Amedora/NumbersToWords",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Seraphin Ahmed",
+            "email": ":amedora09@gmail.com",
             "homepage": ":author_website",
             "role": "Developer"
         }
