@@ -11,5 +11,5 @@ namespace Amedora\NumbersToWords;
 
 class NumbersToWords {
 
-    
+
 } 
