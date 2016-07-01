@@ -24,5 +24,18 @@ class NumbersToWordsServiceProvider extends ServiceProvider
     public function register()
     {
         //
+        $this->app->bindShared("towords",function(){
+            return new NumbersToWords();
+        });
+    }
+
+    /**
+     * Get the services provided by the provider.
+     *
+     * @return array
+     */
+    public function provides()
+    {
+        return array('towords');
     }
 }
